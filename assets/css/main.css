@@ -1066,7 +1066,7 @@ pre code {
 
 /* = = = = = = = = = = Post-Card Styles = = = = = = = = = = */
 .post-card-box {
-  margin: 200px 0 100px;
+  margin: 50px 0 50px;
   padding: 0;
 }
 
@@ -1074,13 +1074,13 @@ pre code {
   position: relative;
   list-style: none;
   float: left;
-  width: 50%;
+  width: 100%;
   -webkit-transition: all .3s;
   transition: all .3s;
 }
 
 .post-card-box li:hover {
-  opacity: 0.9;
+  opacity: 0.5;
 }
 
 .post-card {
@@ -1122,7 +1122,7 @@ pre code {
   font-family: 'Lato', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
-  font-size: 18px;
+  font-size: 12px;
   color: #fff;
   margin: 0 0 10px;
 }
@@ -1133,7 +1133,7 @@ pre code {
 
 .post-card .post-card-body .tag {
   text-decoration: none;
-  font-size: 10px;
+  font-size: 0px;
   text-transform: uppercase;
   color: #fff;
 }
